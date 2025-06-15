@@ -87,7 +87,7 @@ The setup process includes:
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/leaker-flow/leakerflow.git
+    git clone https://github.com/comercialtoddy/Leaker-Flow.git
     cd leakerflow
     ```
 
